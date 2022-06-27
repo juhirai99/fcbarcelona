@@ -1,0 +1,32 @@
+{
+  "FanComment": {
+    "description": "Auto imported from components/FanComment.vue"
+  },
+  "Features": {
+    "description": "Auto imported from components/Features.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Menus": {
+    "description": "Auto imported from components/Menus.vue"
+  },
+  "MoreNews": {
+    "description": "Auto imported from components/MoreNews.vue"
+  },
+  "News": {
+    "description": "Auto imported from components/News.vue"
+  },
+  "Partners": {
+    "description": "Auto imported from components/Partners.vue"
+  },
+  "Store": {
+    "description": "Auto imported from components/Store.vue"
+  },
+  "Survey": {
+    "description": "Auto imported from components/Survey.vue"
+  },
+  "TeamsPlayList": {
+    "description": "Auto imported from components/TeamsPlayList.vue"
+  }
+}

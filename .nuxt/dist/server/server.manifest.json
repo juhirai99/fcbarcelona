@@ -1,0 +1,31 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/fan-comment.js": "components/fan-comment.js",
+    "components/features.js": "components/features.js",
+    "components/footer.js": "components/footer.js",
+    "components/menus.js": "components/menus.js",
+    "components/more-news.js": "components/more-news.js",
+    "components/news.js": "components/news.js",
+    "components/partners.js": "components/partners.js",
+    "components/store.js": "components/store.js",
+    "components/survey.js": "components/survey.js",
+    "components/teams-play-list.js": "components/teams-play-list.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/fan-comment.js": "components/fan-comment.js.map",
+    "components/features.js": "components/features.js.map",
+    "components/footer.js": "components/footer.js.map",
+    "components/menus.js": "components/menus.js.map",
+    "components/more-news.js": "components/more-news.js.map",
+    "components/news.js": "components/news.js.map",
+    "components/partners.js": "components/partners.js.map",
+    "components/store.js": "components/store.js.map",
+    "components/survey.js": "components/survey.js.map",
+    "components/teams-play-list.js": "components/teams-play-list.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
