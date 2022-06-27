@@ -31,7 +31,7 @@
     </v-col>
     <v-col cols="12">
     <v-row>
-      <v-col v-for="footer in footerLink" cols="4" md="2">
+      <v-col v-for="(footer,index) in footerLink" cols="4" md="2" :key="index">
       <div class="footer__sitemap">
         <nav class="footer-sitemap" role="navigation">
           <div class="footer-sitemap__group">
